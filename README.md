@@ -6,7 +6,7 @@ In this project we made an interactive dashboard using PowerBI, to applying diag
 ## 3.Matrix  to make Comparison between (Region vs Profit) )->  to answer on quesion: Which region-category combination performs badly?
 ## 4.slicers for: Year, Region and Category.-> to answer :Why did sales decrease this year in this region?
 
-# At the End of this work we Answered to some Analytics questions from the dashboard:
+# At the End of this work we Answered to some Analytics questions from the dashboard ( For years 2014-2017):
 
 . Which category sells a lot but loses money? -> Furniture and especially tables product.
 
