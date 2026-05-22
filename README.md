@@ -17,4 +17,4 @@ In this project we made an interactive dashboard using PowerBI, to applying diag
 .Is high sales always equal to high profit? -> In this case yes
 . Which region is risky? -> Central
 # Final Dashboard 
-<img width="879" height="488" alt="image" src="https://github.com/user-attachments/assets/63eb9ca8-a03d-48e0-ac06-3e2bba6894a6" />
+<img width="975" height="542" alt="image" src="https://github.com/user-attachments/assets/fed2f9a5-50a7-4f89-afde-b00f09a961c4" />
