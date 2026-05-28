@@ -16,5 +16,10 @@ In this project we made an interactive dashboard using PowerBI, to applying diag
 
 .Is high sales always equal to high profit? -> In this case yes
 . Which region is risky? -> Central
+In another words, our conclusions were:
+* Identified Furniture, especially Tables, as high-selling but loss-making products.
+* Detected the Central Region as the riskiest area with poor Furniture profitability.
+* Evaluated the relationship between sales and profit to support business insights.
+
 # Final Dashboard 
 <img width="975" height="542" alt="image" src="https://github.com/user-attachments/assets/fed2f9a5-50a7-4f89-afde-b00f09a961c4" />
